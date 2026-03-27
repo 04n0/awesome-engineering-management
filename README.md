@@ -650,6 +650,7 @@
 
 | Link | Description |
 | --- | --- |
+| [Dev Interrupted](https://devinterrupted.com/podcast/) | Engineering leadership and developer productivity, hosted by LinearB. |
 | [Chain of Thought](https://chainofthought.show) | AI infrastructure and developer tools, with interviews from engineering leaders and technical founders. |
 | [The Engineering Manager Podcast](https://www.theengineeringmanager.com/podcast/) | Weekly conversations on management, hiring, culture, and scaling engineering teams. |
 | [Soft Skills Engineering](https://softskills.audio/) | Weekly advice on the non-technical side of software development. |
