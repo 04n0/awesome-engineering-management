@@ -62,6 +62,7 @@
 - [Learning](#learning)
   - [Books](#books)
   - [Courses](#courses)
+  - [Podcasts](#podcasts)
   - [Useful resources](#useful-resources)
   - [Other Awesome Lists](#other-awesome-lists)
 - [Laws to live by](#laws-to-live-by)
@@ -644,6 +645,17 @@
 - [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
 - [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
 - [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
+
+## Podcasts
+
+| Link | Description |
+| --- | --- |
+| [Dev Interrupted](https://devinterrupted.com/podcast/) | Engineering leadership and developer productivity, hosted by LinearB. |
+| [Chain of Thought](https://chainofthought.show) | AI infrastructure and developer tools, with interviews from engineering leaders and technical founders. |
+| [The Engineering Manager Podcast](https://www.theengineeringmanager.com/podcast/) | Weekly conversations on management, hiring, culture, and scaling engineering teams. |
+| [Soft Skills Engineering](https://softskills.audio/) | Weekly advice on the non-technical side of software development. |
+| [Level Up Engineering](https://codingsans.com/engineering-management-podcast) | Engineering leadership lessons from CTOs and VPs of Engineering. |
+| [Engineering Culture by InfoQ](https://www.infoq.com/engineering-culture-podcast/) | Building engineering organizations and culture at scale. |
 
 ## Useful resources
 
